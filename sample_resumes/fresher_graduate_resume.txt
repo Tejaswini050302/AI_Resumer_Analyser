@@ -1,0 +1,37 @@
+NEHA GUPTA
+Bengaluru, India | +91 98667 78899 | neha.gupta@email.com
+LinkedIn: linkedin.com/in/nehagupta | GitHub: github.com/nehagupta
+
+CAREER OBJECTIVE
+Recent Computer Science & Engineering graduate seeking an entry-level Software Engineer or Data Analyst role. Strong foundation in object-oriented programming, data structures, algorithms, SQL, and Python, eager to contribute to innovative software development teams.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Java, C++, SQL, C, HTML5, CSS3, JavaScript
+- Frameworks & Libraries: Flask, Pandas, NumPy, Scikit-learn, React (Basics)
+- Databases: MySQL, SQLite, PostgreSQL
+- Developer Tools: Git, GitHub, VS Code, Jupyter Notebook, Postman
+- Core CS Competencies: Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, DBMS, Computer Networks
+
+INTERNSHIP EXPERIENCE
+Software Engineering Intern | TechVenture Labs, Bengaluru (Jan 2024 - June 2024)
+- Developed and tested backend REST API endpoints using Python Flask and SQLite for an internal HR management tool.
+- Collaborated with senior engineers in code reviews, bug fixes, and unit test implementations.
+- Extracted and cleaned customer satisfaction survey data using Python Pandas to generate monthly analytics summaries.
+
+ACADEMIC PROJECTS
+- Campus Placement Portal (Python, Flask, MySQL, Bootstrap)
+  Developed a full-stack student placement portal with resume upload, company job posting, and eligibility checking modules.
+- Movie Recommendation System (Python, Scikit-learn, Pandas)
+  Implemented content-based and collaborative filtering recommendation models on the MovieLens dataset, achieving 86% accuracy.
+- Library Management Desktop System (Java, Swing, JDBC, MySQL)
+  Built an automated desktop tool for book issue tracking, student record lookups, and fine calculation.
+
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+Vellore Institute of Technology (VIT) | CGPA: 9.0/10 (2020 - 2024)
+- Relevant Coursework: Data Structures, Analysis of Algorithms, Database Systems, Machine Learning, Web Technologies
+
+ACHIEVEMENTS & CERTIFICATIONS
+- Solved 250+ algorithmic coding problems on LeetCode & HackerRank (Python & Java)
+- Winner, College Hackathon 2023 (Smart Campus IoT & Web Challenge)
+- Python for Everybody Specialization (Coursera / University of Michigan)

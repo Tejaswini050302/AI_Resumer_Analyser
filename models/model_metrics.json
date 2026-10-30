@@ -1,0 +1,587 @@
+{
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 84.57,
+      "precision_weighted": 85.93,
+      "recall_weighted": 84.57,
+      "f1_score_weighted": 84.55,
+      "precision_macro": 86.0,
+      "recall_macro": 84.61,
+      "f1_score_macro": 84.59
+    },
+    "Support Vector Machine": {
+      "accuracy": 90.86,
+      "precision_weighted": 92.03,
+      "recall_weighted": 90.86,
+      "f1_score_weighted": 90.83,
+      "precision_macro": 92.05,
+      "recall_macro": 90.88,
+      "f1_score_macro": 90.86
+    },
+    "Random Forest": {
+      "accuracy": 85.14,
+      "precision_weighted": 86.54,
+      "recall_weighted": 85.14,
+      "f1_score_weighted": 85.03,
+      "precision_macro": 86.59,
+      "recall_macro": 85.07,
+      "f1_score_macro": 85.03
+    },
+    "XGBoost": {
+      "accuracy": 83.43,
+      "precision_weighted": 84.37,
+      "recall_weighted": 83.43,
+      "f1_score_weighted": 83.43,
+      "precision_macro": 84.33,
+      "recall_macro": 83.24,
+      "f1_score_macro": 83.31
+    }
+  },
+  "best_model": "Support Vector Machine",
+  "confusion_matrices": {
+    "Logistic Regression": {
+      "matrix": [
+        [
+          12,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          17,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          15,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          7,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          4,
+          0,
+          0,
+          0,
+          13,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          13,
+          5,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          15,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          16,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          18
+        ]
+      ],
+      "labels": [
+        "Backend Developer",
+        "Cloud Solutions Architect",
+        "Cybersecurity Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "DevOps Engineer",
+        "Frontend Developer",
+        "Full Stack Developer",
+        "Machine Learning Engineer",
+        "Mobile App Developer"
+      ]
+    },
+    "Support Vector Machine": {
+      "matrix": [
+        [
+          13,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          17,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          5,
+          13,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          14,
+          4,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          15,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          17,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          18
+        ]
+      ],
+      "labels": [
+        "Backend Developer",
+        "Cloud Solutions Architect",
+        "Cybersecurity Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "DevOps Engineer",
+        "Frontend Developer",
+        "Full Stack Developer",
+        "Machine Learning Engineer",
+        "Mobile App Developer"
+      ]
+    },
+    "Random Forest": {
+      "matrix": [
+        [
+          13,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          15,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          17,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          8,
+          10,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          4,
+          0,
+          0,
+          0,
+          13,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          16,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          14,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          15,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          18
+        ]
+      ],
+      "labels": [
+        "Backend Developer",
+        "Cloud Solutions Architect",
+        "Cybersecurity Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "DevOps Engineer",
+        "Frontend Developer",
+        "Full Stack Developer",
+        "Machine Learning Engineer",
+        "Mobile App Developer"
+      ]
+    },
+    "XGBoost": {
+      "matrix": [
+        [
+          13,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          14,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          17,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          5,
+          13,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          6,
+          0,
+          0,
+          0,
+          11,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          3,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          13,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          14,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          18
+        ]
+      ],
+      "labels": [
+        "Backend Developer",
+        "Cloud Solutions Architect",
+        "Cybersecurity Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "DevOps Engineer",
+        "Frontend Developer",
+        "Full Stack Developer",
+        "Machine Learning Engineer",
+        "Mobile App Developer"
+      ]
+    }
+  }
+}

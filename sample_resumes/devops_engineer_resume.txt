@@ -1,0 +1,41 @@
+ROHAN KULKARNI
+Pune, India | +91 98112 23344 | rohan.kulkarni@email.com
+LinkedIn: linkedin.com/in/rohankulkarni | GitHub: github.com/rohankulkarni
+
+PROFESSIONAL SUMMARY
+DevOps & Cloud Infrastructure Engineer with 4 years of experience specializing in container orchestration, Infrastructure-as-Code (IaC), and automated continuous delivery. Proven expertise in migrating legacy workloads to AWS Kubernetes (EKS) and building resilient CI/CD pipelines.
+
+TECHNICAL SKILLS
+- Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+- Containers & Orchestration: Docker, Kubernetes, Helm, Amazon EKS
+- Infrastructure as Code (IaC): Terraform, Ansible, CloudFormation
+- CI/CD & Automation: GitHub Actions, Jenkins, GitLab CI
+- Monitoring & Telemetry: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+- Scripting & OS: Bash, Python, Linux (Ubuntu, RHEL), Shell Scripting
+- Version Control: Git, GitHub, Bitbucket
+
+WORK EXPERIENCE
+Senior DevOps Engineer | CloudScale Systems, Pune (2023 - Present)
+- Architected and provisioned multi-region AWS infrastructure using Terraform, reducing cloud resource provisioning time by 65%.
+- Orchestrated 40+ containerized microservices on Amazon EKS clusters with automated Horizontal Pod Autoscaling (HPA).
+- Implemented automated zero-downtime CI/CD deployment pipelines using GitHub Actions, decreasing release cycle times from bi-weekly to daily.
+- Configured real-time cluster monitoring and telemetry alerts using Prometheus and Grafana dashboards, achieving 99.98% service uptime.
+
+DevOps Systems Engineer | InfraCore Networks (2021 - 2023)
+- Containerized 15 monolithic Java and Python applications using multi-stage Dockerfiles, cutting artifact sizes by 40%.
+- Automated server configuration management across 120 Linux nodes using Ansible playbooks.
+- Managed SSL/TLS certificate renewals, Nginx reverse proxies, and DNS routing via AWS Route 53.
+
+KEY PROJECTS
+- Multi-Region Kubernetes Disaster Recovery Framework (Terraform, AWS EKS, Helm)
+  Automated cross-region cluster failover with automated state backups; reduced Recovery Time Objective (RTO) to under 8 minutes.
+- Automated Security Compliance Pipeline (GitHub Actions, Trivy, SonarQube)
+  Integrated static application security testing (SAST) and container image vulnerability scanning directly into PR checks.
+
+EDUCATION
+Bachelor of Technology in Information Technology
+Pune Institute of Computer Technology (PICT) | CGPA: 8.7/10 (2017 - 2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Administrator (CKA)

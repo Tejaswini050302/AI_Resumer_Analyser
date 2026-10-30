@@ -1,0 +1,162 @@
+{
+  "pytorch": {
+    "title": "Deep Learning with PyTorch",
+    "platform": "PyTorch Official / DeepLearning.AI",
+    "url": "https://pytorch.org/tutorials/",
+    "difficulty": "Intermediate",
+    "est_hours": 20,
+    "key_topics": ["Tensors & Autograd", "Custom Datasets & DataLoader", "CNNs & Transfer Learning", "Model Evaluation & Export"]
+  },
+  "tensorflow": {
+    "title": "TensorFlow Developer Certificate Program",
+    "platform": "Coursera / DeepLearning.AI",
+    "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
+    "difficulty": "Intermediate",
+    "est_hours": 30,
+    "key_topics": ["Keras Sequential & Functional API", "Computer Vision with CNNs", "NLP Tokenization & RNNs", "Time Series Forecasting"]
+  },
+  "docker": {
+    "title": "Docker for Developers & ML Engineers",
+    "platform": "Docker Docs / freeCodeCamp",
+    "url": "https://docs.docker.com/get-started/",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 12,
+    "key_topics": ["Dockerfiles & Multi-stage builds", "Port mapping & Volumes", "Docker Compose", "Containerizing ML API services"]
+  },
+  "kubernetes": {
+    "title": "Kubernetes Mastery for Cloud Deployments",
+    "platform": "Kubernetes Official Tutorials / Udemy",
+    "url": "https://kubernetes.io/docs/tutorials/",
+    "difficulty": "Advanced",
+    "est_hours": 25,
+    "key_topics": ["Pods, Deployments & Services", "ConfigMaps & Secrets", "Ingress Controllers", "Horizontal Pod Autoscaler"]
+  },
+  "fastapi": {
+    "title": "FastAPI - Modern High-Performance Python APIs",
+    "platform": "FastAPI Official Documentation",
+    "url": "https://fastapi.tiangolo.com/tutorial/",
+    "difficulty": "Intermediate",
+    "est_hours": 15,
+    "key_topics": ["Pydantic Data Validation", "Dependency Injection", "Async Endpoints", "OpenAPI / Swagger Documentation"]
+  },
+  "react": {
+    "title": "The Complete React Developer Roadmap",
+    "platform": "React Docs / Scrimba",
+    "url": "https://react.dev/learn",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 35,
+    "key_topics": ["Components, Props & State", "Hooks (useState, useEffect, useMemo)", "State Management (Redux/Zustand)", "API Integration"]
+  },
+  "sql": {
+    "title": "Advanced SQL for Data Science & Engineering",
+    "platform": "Mode Analytics / LeetCode SQL",
+    "url": "https://mode.com/sql-tutorial/",
+    "difficulty": "Beginner to Advanced",
+    "est_hours": 18,
+    "key_topics": ["Joins & Aggregations", "Window Functions & CTEs", "Indexing & Query Optimization", "Database Schema Normalization"]
+  },
+  "aws": {
+    "title": "AWS Certified Solutions Architect & ML Specialty",
+    "platform": "AWS Skill Builder",
+    "url": "https://aws.amazon.com/training/",
+    "difficulty": "Intermediate",
+    "est_hours": 40,
+    "key_topics": ["EC2, S3 & IAM Essentials", "SageMaker ML Workflows", "Lambda & API Gateway", "VPC & CloudWatch Monitoring"]
+  },
+  "azure": {
+    "title": "Microsoft Azure Fundamentals (AZ-900 & AI-102)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/azure/",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 25,
+    "key_topics": ["Azure Cloud Services", "Azure AI & Cognitive Services", "Blob Storage & Cosmos DB", "Resource Management"]
+  },
+  "apache spark": {
+    "title": "Big Data Analysis with Apache Spark and Python (PySpark)",
+    "platform": "Databricks Academy / edX",
+    "url": "https://spark.apache.org/docs/latest/api/python/",
+    "difficulty": "Intermediate to Advanced",
+    "est_hours": 24,
+    "key_topics": ["Spark DataFrames & SparkSQL", "PySpark Distributed Computing", "MLlib Machine Learning", "Spark Streaming"]
+  },
+  "natural language processing": {
+    "title": "NLP Specialization & Modern Transformer Models",
+    "platform": "Hugging Face / DeepLearning.AI",
+    "url": "https://huggingface.co/learn/nlp-course/",
+    "difficulty": "Advanced",
+    "est_hours": 30,
+    "key_topics": ["Tokenization & Embeddings", "Transformers Architecture (BERT, GPT)", "Fine-Tuning with HuggingFace", "RAG & LLM Workflows"]
+  },
+  "computer vision": {
+    "title": "Deep Learning for Computer Vision with OpenCV & PyTorch",
+    "platform": "PyImageSearch / Coursera",
+    "url": "https://opencv.org/courses/",
+    "difficulty": "Intermediate",
+    "est_hours": 28,
+    "key_topics": ["Image Filtering & Feature Detection", "YOLO Object Detection", "Image Segmentation (Mask R-CNN)", "Pose Estimation"]
+  },
+  "git": {
+    "title": "Version Control with Git and GitHub",
+    "platform": "GitHub Skills / Atlassian Git Tutorial",
+    "url": "https://git-scm.com/doc",
+    "difficulty": "Beginner",
+    "est_hours": 8,
+    "key_topics": ["Branching & Merging Strategies", "Pull Requests & Code Reviews", "Rebasing & Resolving Conflicts", "Git Submodules & Hooks"]
+  },
+  "power bi": {
+    "title": "Microsoft Power BI Data Analyst Certification",
+    "platform": "Microsoft Learn / DataCamp",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 20,
+    "key_topics": ["Data Modeling & DAX Formulas", "Interactive Dashboard Visuals", "Power Query ETL Transformations", "Report Publishing & Sharing"]
+  },
+  "tableau": {
+    "title": "Tableau Desktop Specialist & Data Storytelling",
+    "platform": "Tableau Free Training Videos",
+    "url": "https://www.tableau.com/learn/training",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 18,
+    "key_topics": ["Visual Analytics Best Practices", "Calculated Fields & Parameters", "Dashboard Actions & Stories", "Connecting to SQL Data Sources"]
+  },
+  "mongodb": {
+    "title": "MongoDB for Python & Node Developers",
+    "platform": "MongoDB University",
+    "url": "https://learn.mongodb.com/",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 14,
+    "key_topics": ["BSON Documents & Collections", "Aggregation Framework", "Indexing & Sharding", "Mongoose / PyMongo Integration"]
+  },
+  "ci/cd": {
+    "title": "Continuous Integration & Deployment with GitHub Actions",
+    "platform": "GitHub Docs",
+    "url": "https://docs.github.com/en/actions",
+    "difficulty": "Intermediate",
+    "est_hours": 10,
+    "key_topics": ["Workflow YAML syntax", "Automated Testing on PRs", "Secrets Management", "Deploying Containers to Cloud"]
+  },
+  "scikit-learn": {
+    "title": "Machine Learning in Python with Scikit-Learn",
+    "platform": "INRIA / Scikit-learn Official MOOC",
+    "url": "https://scikit-learn.org/stable/tutorial/",
+    "difficulty": "Beginner to Intermediate",
+    "est_hours": 20,
+    "key_topics": ["Preprocessing & Pipelines", "Classification & Regression", "Cross-Validation & GridSearch", "Ensemble Methods"]
+  },
+  "system design": {
+    "title": "System Design Primer & Scalable Architecture",
+    "platform": "GitHub System Design Primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "difficulty": "Advanced",
+    "est_hours": 35,
+    "key_topics": ["Load Balancing & Caching", "Database Sharding & Replication", "Microservices Communication", "High Availability & Fault Tolerance"]
+  },
+  "network security": {
+    "title": "CompTIA Security+ / Cybersecurity Essentials",
+    "platform": "Cybrary / Professor Messer",
+    "url": "https://www.cybrary.it/",
+    "difficulty": "Intermediate",
+    "est_hours": 30,
+    "key_topics": ["Network Protocols & Threat Vectors", "Firewalls & SIEM Monitoring", "Cryptographic Protocols", "Security Incident Handling"]
+  }
+}

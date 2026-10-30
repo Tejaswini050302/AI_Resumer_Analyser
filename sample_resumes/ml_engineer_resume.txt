@@ -1,0 +1,39 @@
+TEJASWINI SINGH
+Bengaluru, India | +91 98765 43210 | tejaswini.singh@email.com
+LinkedIn: linkedin.com/in/tejaswinisingh | GitHub: github.com/tejaswinisingh
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 3+ years of experience designing, training, and deploying deep learning and NLP architectures in cloud environments. Proven track record in developing transformer-based models, optimizing inference with ONNX, and deploying microservices using Docker and FastAPI.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C++, SQL, Bash
+- AI & Machine Learning: PyTorch, TensorFlow, Scikit-learn, Transformers, Hugging Face, OpenCV, Deep Learning, Natural Language Processing, MLOps
+- Data Engineering & Analysis: Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- Cloud & Deployment: Docker, FastAPI, AWS, CI/CD, Git, Linux
+- Databases: PostgreSQL, MongoDB, Redis
+
+WORK EXPERIENCE
+Machine Learning Engineer | Apex AI Technologies, Bengaluru (2024 - Present)
+- Architected and deployed an automated Named Entity Recognition (NER) pipeline using Hugging Face Transformers, achieving an F1-score of 94.2%.
+- Reduced model inference latency by 45% utilizing ONNX runtime quantization and TensorRT optimizations.
+- Packaged ML services into Docker containers and orchestrated deployment onto AWS EKS clusters with CI/CD automation.
+- Mentored junior engineers and spearheaded cross-functional AI collaboration across 3 product squads.
+
+Associate ML Engineer | NeuroData Solutions (2022 - 2024)
+- Developed computer vision classification pipelines using PyTorch and OpenCV for industrial defect detection, boosting accuracy by 18%.
+- Engineered data preprocessing workflows handling over 500k image samples using Pandas and NumPy.
+- Built interactive evaluation dashboards using Plotly and Streamlit for executive stakeholders.
+
+KEY PROJECTS
+- Multimodal Video Summarization System (PyTorch, FastAPI, Docker)
+  Implemented end-to-end video captioning pipeline using CLIP and Whisper models; containerized and deployed as a REST API handling 10k daily requests.
+- Medical Diagnosis NLP Engine (Transformers, Scikit-learn, Streamlit)
+  Fine-tuned BioBERT on clinical datasets; achieved 92% classification precision with explainable attention heatmaps.
+
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+Vellore Institute of Technology | CGPA: 9.1/10 (2018 - 2022)
+
+CERTIFICATIONS
+- DeepLearning.AI Deep Learning Specialization
+- AWS Certified Machine Learning - Specialty

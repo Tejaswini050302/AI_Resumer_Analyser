@@ -1,0 +1,34 @@
+ARJUN VERMA
+Bengaluru, India | +91 97654 32109 | arjun.verma@email.com
+LinkedIn: linkedin.com/in/arjunverma | GitHub: github.com/arjunverma
+
+PROFESSIONAL SUMMARY
+Full Stack Web Developer with 3 years of hands-on experience building scalable, responsive web applications. Proficient in React, Node.js, Express, MongoDB, and RESTful API architecture with a strong foundation in modern JavaScript and TypeScript.
+
+TECHNICAL SKILLS
+- Frontend: JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Redux
+- Backend: Node.js, Express, REST API, GraphQL, Microservices, Python
+- Databases: MongoDB, PostgreSQL, Redis, Firebase
+- Tools & Cloud: Docker, Git, GitHub Actions, AWS, Linux, Postman
+
+WORK EXPERIENCE
+Full Stack Developer | CloudCraft Solutions, Bengaluru (2023 - Present)
+- Engineered high-traffic SaaS portal using React, TypeScript, and Node.js serving 50k monthly active users.
+- Designed and documented 30+ RESTful API endpoints with JWT authentication and rate limiting.
+- Migrated state management architecture to Redux Toolkit, decreasing frontend re-render cycle times by 30%.
+- Integrated Stripe payment gateway and webhook notification systems handling $250k monthly transactions.
+
+Frontend Web Developer | InnoTech Media (2021 - 2023)
+- Built 12+ responsive web client interfaces with React and Tailwind CSS following pixel-perfect Figma designs.
+- Optimized frontend bundle sizes using dynamic code-splitting, improving Lighthouse performance score from 62 to 94.
+- Collaborated with backend engineers to integrate RESTful endpoints using Axios and React Query.
+
+PROJECTS
+- Collaborative Kanban Workspace (React, Node.js, Socket.io, MongoDB)
+  Built real-time kanban board with drag-and-drop mechanics and live multi-user cursor tracking.
+- E-Commerce Microservices Engine (Next.js, Express, PostgreSQL, Redis)
+  Developed storefront with shopping cart caching, automated email receipts, and inventory tracking.
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+PES University, Bengaluru (2017 - 2021)

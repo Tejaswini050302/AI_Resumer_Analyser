@@ -1,0 +1,74 @@
+{
+  "categories": {
+    "Programming Languages": [
+      "python", "java", "c++", "c", "c#", "javascript", "typescript", "go", "golang", "rust",
+      "ruby", "php", "swift", "kotlin", "r", "matlab", "scala", "bash", "shell scripting",
+      "sql", "html", "html5", "css", "css3", "sass", "dart", "perl", "lua"
+    ],
+    "AI & Machine Learning": [
+      "machine learning", "deep learning", "natural language processing", "nlp", "computer vision",
+      "artificial intelligence", "neural networks", "pytorch", "tensorflow", "keras",
+      "scikit-learn", "sklearn", "hugging face", "transformers", "bert", "gpt", "llm",
+      "large language models", "langchain", "llamaindex", "reinforcement learning",
+      "generative ai", "rag", "opencv", "spacy", "nltk", "xgboost", "lightgbm", "catboost",
+      "hyperparameter tuning", "model deployment", "mlops", "onnx", "mlflow", "wandb",
+      "prompt engineering", "sentiment analysis", "named entity recognition", "text classification"
+    ],
+    "Data Science & Analytics": [
+      "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "data analysis",
+      "data visualization", "statistical analysis", "statistics", "feature engineering",
+      "exploratory data analysis", "eda", "a/b testing", "power bi", "tableau", "excel",
+      "advanced excel", "data cleaning", "data preprocessing", "predictive modeling",
+      "regression analysis", "clustering", "hypothesis testing", "time series analysis",
+      "dashboard development", "business intelligence", "bi reporting", "metrics analysis"
+    ],
+    "Big Data & Data Engineering": [
+      "apache spark", "spark", "pyspark", "hadoop", "apache kafka", "kafka", "apache airflow",
+      "airflow", "etl", "elt", "data pipeline", "data warehousing", "snowflake", "databricks",
+      "google bigquery", "bigquery", "aws redshift", "redshift", "hive", "dbt", "presto",
+      "stream processing", "batch processing", "delta lake"
+    ],
+    "Web Development & Frameworks": [
+      "react", "react.js", "reactjs", "angular", "vue.js", "vue", "next.js", "nuxt.js",
+      "node.js", "nodejs", "express", "express.js", "django", "fastapi", "flask",
+      "spring boot", "spring", "asp.net", ".net core", "redux", "rest api", "restful api",
+      "rest", "graphql", "tailwind css", "bootstrap", "websockets", "jwt", "oauth",
+      "microservices", "frontend development", "backend development", "full stack development",
+      "responsive design", "web development", "ajax", "json", "xml"
+    ],
+    "Cloud & DevOps": [
+      "aws", "amazon web services", "azure", "microsoft azure", "gcp", "google cloud platform",
+      "docker", "kubernetes", "k8s", "ci/cd", "continuous integration", "continuous deployment",
+      "jenkins", "github actions", "gitlab ci", "terraform", "ansible", "linux", "unix",
+      "bash scripting", "helm", "nginx", "apache", "serverless", "aws lambda", "cloud computing",
+      "infrastructure as code", "iac", "cloudformation", "prometheus", "grafana"
+    ],
+    "Databases": [
+      "postgresql", "postgres", "mysql", "sqlite", "mongodb", "redis", "cassandra",
+      "dynamodb", "oracle database", "oracle", "elasticsearch", "neo4j", "firebase",
+      "firestore", "nosql", "relational databases", "sql server", "ms sql", "prisma", "sqlalchemy"
+    ],
+    "Cybersecurity & Networking": [
+      "network security", "penetration testing", "pen testing", "ethical hacking",
+      "cryptography", "siem", "wireshark", "firewalls", "vulnerability assessment",
+      "owasp", "identity and access management", "iam", "soc analysis", "incident response",
+      "malware analysis", "tcp/ip", "dns", "ssl/tls", "burp suite", "metasploit", "kali linux"
+    ],
+    "Mobile Development": [
+      "android", "android development", "ios", "ios development", "flutter", "react native",
+      "swiftui", "jetpack compose", "mobile app development", "xcode", "android studio"
+    ],
+    "Software Engineering & Methodologies": [
+      "git", "github", "gitlab", "jira", "agile", "scrum", "kanban", "confluence",
+      "unit testing", "pytest", "test driven development", "tdd", "object oriented programming",
+      "oop", "system design", "design patterns", "data structures", "algorithms",
+      "code review", "debugging", "api design", "software architecture"
+    ],
+    "Soft Skills": [
+      "problem solving", "critical thinking", "communication skills", "communication",
+      "team collaboration", "teamwork", "leadership", "time management", "adaptability",
+      "analytical thinking", "presentation skills", "work ethic", "project management",
+      "conflict resolution", "mentoring"
+    ]
+  }
+}

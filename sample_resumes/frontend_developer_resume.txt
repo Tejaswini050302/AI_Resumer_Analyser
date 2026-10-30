@@ -1,0 +1,35 @@
+SNEHA PATEL
+Ahmedabad, India | +91 98445 56677 | sneha.patel@email.com
+LinkedIn: linkedin.com/in/snehapatel | GitHub: github.com/snehapatel
+
+PROFESSIONAL SUMMARY
+Frontend Web Developer with 3 years of experience creating responsive, accessible, high-performance web applications. Specialized in React, Next.js, TypeScript, and modern CSS frameworks with an eye for UI/UX micro-interactions.
+
+TECHNICAL SKILLS
+- Frontend Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
+- Frameworks & Libraries: React, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI
+- Build Tools & Testing: Vite, Webpack, Jest, React Testing Library, ESLint
+- Web Concepts: Responsive Design, RESTful APIs, GraphQL, WebSockets, WCAG Accessibility
+- Tools & Methodologies: Git, GitHub, Figma, Agile, Scrum, Jira
+
+WORK EXPERIENCE
+Frontend Developer | PixelCraft Studio, Ahmedabad (2023 - Present)
+- Developed modern Single Page Applications (SPA) using React, TypeScript, and Tailwind CSS serving 80k active monthly users.
+- Translated high-fidelity interactive wireframes from Figma into modular, reusable component libraries.
+- Optimized client-side bundle sizes using dynamic imports and code-splitting, boosting Lighthouse performance scores from 58 to 94.
+- Integrated RESTful backend APIs and WebSocket streams for real-time notifications and live user presence.
+
+Junior Web Developer | WebSphere Technologies (2021 - 2023)
+- Built 15+ responsive marketing landing pages with pixel-perfect cross-browser compatibility across mobile, tablet, and desktop.
+- Integrated third-party payment gateways (Stripe) and form validations with Formik and Yup.
+- Authored unit test suites using Jest and React Testing Library, maintaining 85% code coverage.
+
+KEY PROJECTS
+- Cloud Analytics Dashboard UI (Next.js, TypeScript, Tailwind CSS, Recharts)
+  Built an executive SaaS dashboard featuring dark mode toggle, draggable widget layout, and dynamic SVG data charts.
+- Collaborative Document Editor (React, Socket.io, CSS3)
+  Implemented a rich-text collaborative document editor with real-time multi-user cursor tracking and markdown support.
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+Gujarat Technological University | CGPA: 8.8/10 (2017 - 2021)

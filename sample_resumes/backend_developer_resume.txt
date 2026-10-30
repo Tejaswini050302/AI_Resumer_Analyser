@@ -1,0 +1,35 @@
+ADITYA RAO
+Hyderabad, India | +91 98556 67788 | aditya.rao@email.com
+LinkedIn: linkedin.com/in/adityarao | GitHub: github.com/adityarao
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with 3+ years of experience designing scalable microservices, relational databases, and high-throughput RESTful APIs. Proficient in Python (Django, FastAPI), PostgreSQL schema optimization, Redis caching, and containerized deployment with Docker.
+
+TECHNICAL SKILLS
+- Backend Frameworks: Python, Django, Django REST Framework, FastAPI, Flask, Node.js
+- Databases & Caching: PostgreSQL, MySQL, Redis, MongoDB, SQLAlchemy
+- Architecture & Patterns: Microservices, RESTful APIs, Asynchronous Programming, MVC, Event-Driven Architecture
+- Cloud & DevOps: Docker, Docker Compose, AWS (EC2, S3), CI/CD, Linux, Nginx
+- Tools & Methodologies: Git, Postman, PyTest, Celery, RabbitMQ, Agile, Jira
+
+WORK EXPERIENCE
+Backend Developer | HyperFlow Systems, Hyderabad (2023 - Present)
+- Engineered high-throughput REST APIs handling 12k requests per second using FastAPI and async PostgreSQL drivers.
+- Implemented asynchronous background task processing using Celery and Redis message brokers for video encoding and email pipelines.
+- Optimized slow database queries through table indexing, query caching, and normalized schema design, cutting latency by 45%.
+- Packaged services into Docker containers and collaborated with DevOps engineers on Kubernetes deployments.
+
+Software Engineer (Backend) | CoreLogic Tech (2021 - 2023)
+- Built 25+ secure RESTful API endpoints with Django REST Framework, JWT authentication, and role-based permissions.
+- Designed database schemas in PostgreSQL with complex migrations, triggers, and foreign key integrity constraints.
+- Wrote automated unit and integration tests using PyTest, achieving 90% test coverage across core payment flows.
+
+KEY PROJECTS
+- High-Concurreny URL Shortener & Analytics API (FastAPI, Redis, PostgreSQL)
+  Architected a low-latency URL redirection engine with Redis caching capable of sub-15ms response times under load.
+- E-Commerce Microservices Backend (Django, Docker, RabbitMQ)
+  Built isolated order management, authentication, and inventory microservices communicating via RabbitMQ message queues.
+
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+JNTU Hyderabad | CGPA: 8.5/10 (2017 - 2021)

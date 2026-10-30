@@ -1,0 +1,39 @@
+VIKRAM MALHOTRA
+Noida, India | +91 98334 45566 | vikram.malhotra@email.com
+LinkedIn: linkedin.com/in/vikrammalhotra | GitHub: github.com/vikrammalhotra
+
+PROFESSIONAL SUMMARY
+Cybersecurity & SOC Analyst with 3+ years of experience in network security monitoring, incident response, and vulnerability management. Skilled in configuring SIEM alert correlation rules, packet inspection using Wireshark, and conducting penetration testing against web applications.
+
+TECHNICAL SKILLS
+- Security Operations: SIEM (Splunk, IBM QRadar), SOC Analysis, Incident Response, Log Analysis, Threat Hunting
+- Network & Systems Security: Firewalls, IDS/IPS, Wireshark, TCP/IP, DNS, SSL/TLS, Linux Administration, Active Directory
+- Vulnerability Assessment & Pen Testing: Nessus, Nmap, Burp Suite, Metasploit, OWASP Top 10, Kali Linux
+- Governance & Compliance: NIST Cybersecurity Framework, ISO 27001, Identity and Access Management (IAM)
+- Scripting: Python, Bash, Regular Expressions (Regex)
+
+WORK EXPERIENCE
+Cybersecurity & SOC Analyst | CyberShield Defense, Noida (2023 - Present)
+- Monitored real-time enterprise security alerts in Splunk SIEM, investigating and mitigating 400+ potential security incidents with zero critical breaches.
+- Formulated custom correlation rules in SIEM to detect brute-force attacks, port scans, and abnormal lateral network movements.
+- Conducted regular vulnerability assessments using Nessus across 200+ network servers, coordinating patch remediation with DevOps teams.
+- Led incident triage and digital forensic analysis for a compromised internal workstation, containing malware within 30 minutes.
+
+Associate Security Engineer | SecureNet Solutions (2021 - 2023)
+- Conducted web application penetration testing using Burp Suite based on OWASP Top 10 security standards.
+- Analyzed suspicious network packet captures using Wireshark to identify Command & Control (C2) server beacons.
+- Maintained endpoint detection and response (EDR) agents across 500+ corporate employee laptops.
+
+KEY PROJECTS
+- Automated Phishing Triage Engine (Python, VirusTotal API, Regex)
+  Engineered a Python tool to parse incoming suspicious emails, extract URLs/hashes, and query threat intelligence APIs automatically.
+- Enterprise SIEM Dashboard & Compliance Tracker (Splunk, Linux)
+  Built custom visualization dashboards tracking authentication anomalies and privileged access escalations.
+
+EDUCATION
+Bachelor of Technology in Computer Science (Cybersecurity Specialization)
+Amity University | CGPA: 8.6/10 (2017 - 2021)
+
+CERTIFICATIONS
+- CompTIA Security+ (SY0-601)
+- Certified Ethical Hacker (CEH v12)

@@ -1,0 +1,38 @@
+SHRIYA SHET
+Mumbai, India | +91 91234 56789 | shriya.shet@email.com
+LinkedIn: linkedin.com/in/shriyashet | GitHub: github.com/shriyashet
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist with expertise in predictive modeling, statistical analysis, and machine learning. Experienced in mining insights from multi-terabyte transactional datasets and presenting findings to executive leadership using Tableau and Power BI.
+
+TECHNICAL SKILLS
+- Programming & Querying: Python, R, SQL, Bash
+- Data Science & ML: Pandas, NumPy, Scikit-learn, XGBoost, Statistical Analysis, A/B Testing, Feature Engineering, Regression, Clustering
+- Business Intelligence & Visualization: Tableau, Power BI, Matplotlib, Seaborn, Excel
+- Databases: PostgreSQL, MySQL, BigQuery, Snowflake
+- Version Control & Tools: Git, GitHub, Jupyter, Jira
+
+WORK EXPERIENCE
+Data Scientist | QuantEdge Analytics, Mumbai (2023 - Present)
+- Developed an ensemble churn prediction model using XGBoost and Scikit-learn, reducing customer attrition by 22% and saving $1.4M annually.
+- Executed 15+ rigorous A/B experiments on recommendation algorithms, increasing click-through rates by 14%.
+- Formulated complex SQL queries and automated ETL pipelines on Snowflake to feed daily BI reporting dashboards in Tableau.
+
+Junior Data Analyst | RetailMetrics Corp (2021 - 2023)
+- Built interactive Power BI dashboards tracking omnichannel sales metrics across 400+ retail store locations.
+- Performed statistical hypothesis testing and customer segmentation using K-means clustering on 2M+ customer transaction records.
+- Automated weekly performance reports using Python scripts, saving 12 manual engineering hours every week.
+
+KEY PROJECTS
+- Credit Risk Default Predictor (Python, XGBoost, Scikit-learn, Streamlit)
+  Trained gradient boosted trees with SMOTE balancing on 100k credit loan applications; reached 88% ROC-AUC.
+- E-Commerce Market Basket Analysis (Python, Pandas, SQL)
+  Discovered high-affinity product cross-selling bundles using Apriori association rule mining.
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+Mumbai University | CGPA: 8.9/10 (2017 - 2021)
+
+CERTIFICATIONS
+- IBM Data Science Professional Certificate
+- Microsoft Certified: Power BI Data Analyst Associate

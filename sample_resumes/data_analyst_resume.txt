@@ -1,0 +1,39 @@
+ANANYA SHARMA
+Gurugram, India | +91 98223 34455 | ananya.sharma@email.com
+LinkedIn: linkedin.com/in/ananyasharma | GitHub: github.com/ananyasharma
+
+PROFESSIONAL SUMMARY
+Analytical and detail-oriented Data Analyst with 3 years of experience transforming complex business data into strategic visual dashboards and actionable insights. Expert in SQL query optimization, Power BI, Tableau, and exploratory statistical analysis in Python.
+
+TECHNICAL SKILLS
+- Querying & Databases: SQL (PostgreSQL, MySQL, MS SQL Server), CTEs, Window Functions
+- Business Intelligence & Reporting: Power BI, Tableau, DAX, Power Query, Advanced Excel
+- Data Analysis & Statistics: Python (Pandas, NumPy, Matplotlib, Seaborn), Exploratory Data Analysis (EDA), Hypothesis Testing
+- Big Data & Cloud: Google BigQuery, Snowflake, AWS Redshift
+- Methodologies: Agile, Jira, Business Requirements Documentation, Storytelling with Data
+
+WORK EXPERIENCE
+Senior Business Data Analyst | RetailPulse Insights, Gurugram (2023 - Present)
+- Designed and maintained 10+ executive Power BI dashboards monitoring revenue, inventory turnover, and regional sales across 350 retail outlets.
+- Formulated complex SQL stored procedures and optimized queries on multi-million row datasets, accelerating reporting refresh speeds by 50%.
+- Performed customer cohort retention analysis in Python, identifying churn drivers and driving a 12% improvement in repeat customer loyalty.
+- Partnered directly with Chief Operating Officer and Product Managers to define and track quarterly OKR metrics.
+
+Data Analyst | MarketSphere Consulting (2021 - 2023)
+- Built interactive Tableau reporting dashboards delivering weekly operational summaries to Fortune 500 retail clients.
+- Automated repetitive Excel-based financial reporting workflows using Python scripts, saving 15 manual analysis hours every week.
+- Conducted variance analysis and statistical trend forecasting for supply chain procurement teams.
+
+KEY PROJECTS
+- Omnichannel Retail Sales Performance Hub (Power BI, SQL, DAX)
+  Architected an enterprise dashboard integrating POS and online store metrics; utilized by 60+ regional sales managers.
+- Customer Lifetime Value (CLV) Segmentation Model (Python, Pandas, Seaborn)
+  Segmented 250k customer profiles into behavioral personas using RFM analysis, aiding a targeted marketing campaign.
+
+EDUCATION
+Bachelor of Science in Statistics & Data Analytics
+University of Delhi | CGPA: 8.9/10 (2018 - 2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Google Data Analytics Professional Certificate
